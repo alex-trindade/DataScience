@@ -7,25 +7,14 @@
 # Alex Trindade
 <sub>*Cientista de Dados em Formação*</sub>
 
-Depois de muitos anos trabalhando com desenvolvimento Desktop, conheci Python no início da pandemia quando pesuisava por criação de Bots para o mercado financeiro. Em uma das pesquisas me deparei com o termo Data Science. 
+Desde a faculdade me interessei por algoritmos, no mestrado trabalhei com Otimização Combinatória, depois que entrei no serviço público passei a lecionar a Disciplina de Algoritmos e Lógica de Programação. Conheci Python no início da pandemia quando pesquisava por criação de Bots para o mercado financeiro. Em uma das pesquisas me deparei com o termo Data Science. Decidi que iria investir tempo para o aprendizado, porém, o tempo só veio agora em 2022.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** PHP, Delphi, Python, Otimização Combinatória.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
-
+* em breve
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Conheça os meus projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-
----
+* **Construção de um bot para comentários no instagram:**
