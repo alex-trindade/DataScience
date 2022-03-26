@@ -16,4 +16,4 @@ Desde a faculdade me interessei por algoritmos, no mestrado trabalhei com Otimiz
 
 ## Projetos:
 
-# Análise de Dados do AirBnb: Barcelona [Acesse](https://github.com/alex-trindade/DataScience/blob/main/Analisando_os_Dados_do_Airbnb_Barcelona.ipynb)
+### Análise de Dados do AirBnb Barcelona [Acesse](https://github.com/alex-trindade/DataScience/blob/main/Analisando_os_Dados_do_Airbnb_Barcelona.ipynb)
